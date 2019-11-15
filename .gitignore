@@ -1,0 +1,6 @@
+*.zip
+*.pyc
+.ipynb_checkpoints/*.*
+out/*.*
+tmp/*.*
+sources/*.*
